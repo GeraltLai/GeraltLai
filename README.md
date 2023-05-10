@@ -1,4 +1,13 @@
-### Hi there 👋
+### <font size=10>Hi there 👋</font>
+I'm Geralt. 😝
+
+This is my GitHub website. 
+
+I'm constructing it for now.🤣
+
+
+
+
 
 <!--
 **GeraltLai/GeraltLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +27,6 @@ Here are some ideas to get you started:
 
 
 [![GeraltLai GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltLai&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 
