@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-[![GeraltLai GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltLai&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![GeraltLai GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltLai&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
