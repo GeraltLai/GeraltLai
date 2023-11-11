@@ -5,7 +5,7 @@ This is my GitHub website.
 
 I'm constructing it for now.🤣
 
-
+📧 How to reach me:geraltlai@gmail.com
 
 
 
